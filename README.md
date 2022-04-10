@@ -38,18 +38,13 @@
   - For use ```phoneinfo``` you need a [Veriphone API key](https://veriphone.io/), if you don't have this key you can use this test key to test the tool: KEY: ```47703D994B174BACBDC5AD734CC381B4```
   - For use ```mailfinder``` you need a [real-email API key](https://isitarealemail.com/), if you don't have this key you can use this test key to test the tool: KEY: ```0c6ad1fd-f753-4628-8c0a-7968e722c6c7```
 
-- Installation on linux (root user)
+- Installation on linux
 ```bash
-apt-get install wget && wget https://raw.githubusercontent.com/retr0-g04t/EagleOsint/main/linuxinstall.sh && bash linuxinstall.sh
+$ git clone https://github.com/retr0-g04t/EagleOsint
+$ cd EagleOsint
+$ bash linuxinstall.sh
+$ python3 EagleOsint.py
 ```
-
-- Installation on termux
-```bash
-pkg install wget && wget https://raw.githubusercontent.com/retr0-g04t/EagleOsint/main/install.sh && bash install.sh
-```
-- Uninstallation
-- termux: ```rm -rf $PREFIX/bin/EagleOsint```
-- linux  : ```rm -rf /usr/local/bin/EagleOsint```
 
 ### Credits
 Copyright © 2021 by <a href="https://www.instagram.com/lewdaldi/">@Retr0</a>
