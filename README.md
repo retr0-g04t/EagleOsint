@@ -1,6 +1,6 @@
 <h1 align="center">EagleOsint</h1>
 
-<img src="https://github.com/retr0-g04t/EagleOsint/blob/main/image/imageonline-co-roundcorner.png">
+<img src="https://github.com/retr0-g04t/EagleOsint/blob/main/image/Daco_4872325.png">
 <p align="center">
 <a href="https://discord.gg/wQqZpHX2V2"><img src="https://discordapp.com/api/guilds/437716353584070677/widget.png?style=shield" alt="Discord Server"></a>
 
