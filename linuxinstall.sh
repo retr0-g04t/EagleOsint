@@ -8,11 +8,13 @@ echo -e "$b"">""$w"" EagleOsint - Simple information gathering toolkit"
 echo -e "$b"">""$w"" prepare for installing dependencies ..."
 sleep 3
 echo -e "$b"">""$w"" installing package: ""$g""libxml2""$w"
-pkg install libxml2 -y
+sudo apt install libxml2
 echo -e "$b"">""$w"" installing pacakge: ""$g""libxslt""$w"
-pkg install libxslt -y
+sudo apt install libxslt
 echo -e "$b"">""$w"" installing pacakge: ""$g""python3""$w"
-pkg install python -y
+sudo apt install python3
+echo -e "$b"">""$w"" installing pacakge: ""$g""python3-pip""$w"
+sudo apt install python3-pip
 echo -e "$b"">""$w"" installing modules: ""$g""lxml""$w"
 pip3 install wheel lxml
 echo -e "$b"">""$w"" installing modules: ""$g""requests""$w"
@@ -23,4 +25,4 @@ echo -e "$b"">""$w"" installing modules: ""$g""tabuate""$w"
 pip3 install tabulate
 echo -e "$b"">""$w"" successfully installing dependencies"
 wget -q https://raw.githubusercontent.com/retr0-g04t/EagleOsint/main/EagleOsint.py -O "$PREFIX"/bin/EagleOsint && chmod +x "$PREFIX"/bin/EagleOsint
-echo -e "$b"">""$w"" use command ""$g""EagleOsint""$w"" for start the console"
+echo -e "$b"">""$w"" use command ""$g""python3 EagleOsint.py""$w"" for start the console"
