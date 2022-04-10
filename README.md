@@ -38,7 +38,7 @@
   - For use ```phoneinfo``` you need a [Veriphone API key](https://veriphone.io/), if you don't have this key you can use this test key to test the tool: KEY: ```47703D994B174BACBDC5AD734CC381B4```
   - For use ```mailfinder``` you need a [real-email API key](https://isitarealemail.com/), if you don't have this key you can use this test key to test the tool: KEY: ```0c6ad1fd-f753-4628-8c0a-7968e722c6c7```
 
-- Installation on linux
+- Installation on linux (root user)
 ```bash
 apt-get install wget && wget https://raw.githubusercontent.com/retr0-g04t/EagleOsint/main/linuxinstall.sh && bash linuxinstall.sh
 ```
