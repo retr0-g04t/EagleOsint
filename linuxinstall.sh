@@ -24,5 +24,4 @@ pip3 install BeautifulSoup
 echo -e "$b"">""$w"" installing modules: ""$g""tabuate""$w"
 pip3 install tabulate
 echo -e "$b"">""$w"" successfully installing dependencies"
-wget -q https://raw.githubusercontent.com/retr0-g04t/EagleOsint/main/EagleOsint.py -O "$PREFIX"/bin/EagleOsint && chmod +x "$PREFIX"/bin/EagleOsint
 echo -e "$b"">""$w"" use command ""$g""python3 EagleOsint.py""$w"" for start the console"
