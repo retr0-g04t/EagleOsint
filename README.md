@@ -2,7 +2,7 @@
 
 <img src="https://github.com/retr0-g04t/EagleOsint/blob/main/image/Daco_4872325.png">
 <p align="center">
-<a href="https://discord.gg/wQqZpHX2V2"><img src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" alt="Discord Server"></a>
+<a href="https://discord.gg/wQqZpHX2V2"><img src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png" alt="Discord Server"></a>
 
 
 <br>
