@@ -59,7 +59,7 @@ logo = f"""{b}
    //////   ' \/ `   ---            ┏───────────────────────────────┓
   //// / // :    : ---              │     WELCOME TO EAGLEOSINT     │
  // /   /  /`    '--                │     discord.gg/wQqZpHX2V2     │
-//          //..\\                  │     github.com/retr0-g04t     │
+//          //..\\                   │     github.com/retr0-g04t     │
        ====UU====UU====             └───────────────────────────────┘
            '//||\\`
              ''``
@@ -714,7 +714,7 @@ def settings():
    //////   ' \/ `   ---            ┏───────────────────────────────┓
   //// / // :    : ---              │     WELCOME TO EAGLEOSINT     │
  // /   /  /`    '--                │ {lr}discord.gg/wQqZpHX2V2{r}  │
-//          //..\\                  │ {lr}github.com/retr0-g04t{r}  │
+//          //..\\                   │ {lr}github.com/retr0-g04t{r}  │
        ====UU====UU====             └───────────────────────────────┘
            '//||\\`
              ''``
